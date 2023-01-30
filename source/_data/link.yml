@@ -1,0 +1,24 @@
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: 我的CSDN
+      link: https://blog.csdn.net/qq_51681065?type=blog
+      avatar: https://bkimg.cdn.bcebos.com/pic/4ec2d5628535e5dd85a98e627ec6a7efcf1b6281
+      descr: 我的CSDN平台
+    - name: 我的gitee博客
+      link: https://twitter.com/
+      avatar: https://www.infocode.com.cn/blog/wp-content/uploads/2021/10/f8fba7a2f3c35d3d7c16892b38ba4785.jpg
+      descr: 国内代码托管平台
+    - name: 大米星球
+      link: https://dmxq.info/
+      avatar: https://ugc.hitv.com/1/22101302355640A2E346E1415C87955C155B224B5Qzkx/S4XuMa0.png
+      descr: 观影网站
+    - name: 鸠摩搜书
+      link: https://www.jiumodiary.com/
+      avatar: https://www2.jiumodiary.com/images/front/eleps.png
+      descr: 电子书
+
